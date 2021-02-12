@@ -20,7 +20,7 @@ header {
   justify-content: center;
   align-items: center;
   width: 100vw;
-  background-color: rgb(67, 117, 71);
+  background-color: rgb(32, 0, 68);
   height: 275px;
 }
 
@@ -68,6 +68,12 @@ header .social-nav {
 .social-nav .sn-instagram {
   background: url('./images/instagram.svg') no-repeat 50% 50%;
   background-color: #E1306C;
+}
+
+.social-nav .sn-youtube {
+  background: url('./images/youtube.png') no-repeat 50% 50%;
+  background-size: 65%;
+  background-color: #FF0000;
 }
 
 .social-nav .sn-website{
